@@ -1,0 +1,4 @@
+pytube
+moviepy
+playsound3
+opencv-python
