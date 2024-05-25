@@ -1,4 +1,4 @@
-#!.venv/bin/python
+#!/bin/python
 from pytube import YouTube
 from os import path
 from shutil import get_terminal_size
