@@ -2,7 +2,8 @@
 Play bad apple on your terminal!
 
 # Install
-If you want or need to, you can set up a virtual environment (make sure to activate it!).
+If you want or need to, you can set up a virtual environment.
+Make sure you fix the shebang if you do.
 
 First, you need to install the dependencies.<br>Run the command:
 ```shell
